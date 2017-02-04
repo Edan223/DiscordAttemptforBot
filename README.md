@@ -1,0 +1,2 @@
+# DiscordAttemptforBot
+Idkfirsttry
